@@ -1,0 +1,22 @@
+
+body{
+  overflow-x:hidden;
+  margin:0;
+}
+section{
+  height: 100vh;
+}
+svg{
+  position: absolute;
+  bottom: -1px;
+  right: -2px;
+}
+.main{
+  background:#ccc;
+}
+.sec{
+  background:#333;
+}
+.polymorph{
+  fill: #333;
+}
